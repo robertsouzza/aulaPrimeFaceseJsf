@@ -12,7 +12,7 @@
 	<description>Curso JSF e PrimeFaces essencial</description>
 	
 	<properties>
-		<project.build.sourceEncoding>UTTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	
 	<dependencies>
