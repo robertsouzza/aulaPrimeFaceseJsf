@@ -1,12 +1,14 @@
 package com.algaworks.erp.repository;
 
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
+//import java.util.List;
 
-import com.algaworks.erp.model.Empresa;
+//import javax.persistence.EntityManagerFactory;
+//import javax.persistence.Persistence;
+
+//import com.algaworks.erp.model.Empresa;
 
 public class SchemaGeneration {
-	
+	/*
 	public static void main(String[] args) {
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("AlgaWorksPU");
 		
@@ -20,5 +22,5 @@ public class SchemaGeneration {
 		emf.close();
 		
 	}
-
+   */
 }
